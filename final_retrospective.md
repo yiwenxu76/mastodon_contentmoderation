@@ -1,7 +1,6 @@
-Yiwen Xu 
-CS 5001
-Spring 2023
-Final Retrospective
+Yiwen Xu/CS 5001/Spring 2023
+
+__Final Retrospective__
 
 This is the first time that I design, implement, and demonstrate a project on my own. Throughout this project, I gained valuable experience in working with external API and processing large set of data. I learned about the Mastodon API and how to use it to fetch public statuses by reading documents, as well as how to filter and search through the statuses for specific keywords. Additionally, I improved my skills in writing clean and modular code, as I divided the program into separate functions with clear and concise inputs and outputs.
 
