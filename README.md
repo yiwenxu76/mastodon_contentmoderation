@@ -1,4 +1,4 @@
-# mastodon_contentmoderation
+# mastodon_content_moderation
 Yiwen Xu/CS 5001/Spring 2023/
 Final Project
 
